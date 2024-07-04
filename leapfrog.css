@@ -1,0 +1,132 @@
+  @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans&family=Young+Serif&display=swap');
+
+  /* body {
+      margin: 0 450px;
+  } */
+
+  header {
+      display: flex;
+      font-family: 'Work Sans', sans-serif;
+      /* justify-content: space-between; */
+      gap: 20px;
+      align-items: center;
+
+  }
+
+  .mainSection {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+  }
+
+  .logoApplicantName {
+      display: flex;
+      gap: 7px;
+      /* margin: 5px 10px; */
+      align-items: end;
+  }
+
+  .leapfroglogo {
+      height: 60px;
+  }
+
+  .applicantName {
+      font-size: 32px;
+      font-weight: bolder;
+  }
+
+
+
+  .exploreMeButton {
+      background-color: #038e43;
+      border: none;
+      color: white;
+      font-size: 15px;
+      padding: 15px 20px;
+      font-weight: bold;
+      display: flex;
+  }
+
+  .contactDetails {
+      /* display: flex; */
+      gap: 20px;
+      font-weight: 300;
+      /* font-size: 13px; */
+  }
+
+  .headSection {
+      font-family: 'Work Sans', sans-serif;
+      margin-bottom: 20px;
+
+  }
+
+  .sectionTitle {
+      color: #038e43;
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+  }
+
+  .sectionSubTitle {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 5px;
+  }
+
+  .sectionDateDetails {
+      color: gray;
+  }
+
+  .skillsSectionDetailsList {
+      display: flex;
+  }
+
+  .designation {
+      font-weight: 300;
+      color: gray;
+  }
+
+  .firstSection {
+      width: 40%;
+  }
+
+  .secondSection {
+      width: 60%;
+  }
+
+  .achievementLists {
+      text-align: left;
+      font-size: 13px;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .achievementSectionList {
+      text-align: left;
+  }
+
+  .achievementYear {
+      width: 10%;
+  }
+
+  .achievementTitle {
+      width: 20%;
+  }
+
+  .achievementSubTitle {
+      width: 50%;
+  }
+
+  .achievementLink {
+      width: 15%;
+  }
+
+  li {
+      font-size: 13px;
+  }
+
+  .inActiveWebsite {
+      font-size: 11px;
+      font-weight: 200;
+      font-style: italic;
+  }
